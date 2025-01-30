@@ -1,0 +1,17 @@
+{
+  "name": "rev-back-2025-1",
+  "version": "1.0.0",
+  "description": "Revisão Backend SENAI-SP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "SENAI",
+    "NODE",
+    "JavaScript"
+  ],
+  "author": "Souza",
+  "license": "MIT"
+}
