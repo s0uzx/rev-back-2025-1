@@ -13,5 +13,11 @@
     "JavaScript"
   ],
   "author": "Souza",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemin": "^1.0.1",
+    "nodemon": "^3.1.9"
+  }
 }
